@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "signature": "e205dd0d94eba7725a90e8b5b85458a9d495cb4b"
   },
   "compilationOptions": {
     "defines": [
@@ -26,7 +26,8 @@
         "dependencies": {
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
-          "Microsoft.NETCore.App": "2.2.0"
+          "Microsoft.NETCore.App": "2.2.0",
+          "Microsoft.TypeScript.MSBuild": "3.5.2"
         },
         "runtime": {
           "AdventurersWanted.dll": {}
@@ -35,6 +36,7 @@
           "AdventurersWanted.dll": {}
         }
       },
+      "Microsoft.TypeScript.MSBuild/3.5.2": {},
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
         "dependencies": {
           "Newtonsoft.Json": "11.0.2",
@@ -3236,6 +3238,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Microsoft.TypeScript.MSBuild/3.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6LXC2Cei5VcXafhGCzeEnR8dojkvq15YvQJaglb5onE/BIQBF1UZYY22+UU5amy5/PHXBYKQBKn6FHNFS/KExQ==",
+      "path": "microsoft.typescript.msbuild/3.5.2",
+      "hashPath": "microsoft.typescript.msbuild.3.5.2.nupkg.sha512"
     },
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
       "type": "package",

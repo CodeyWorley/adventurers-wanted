@@ -12,3 +12,12 @@ C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\obj\Debug\net
 C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\obj\Debug\netcoreapp2.2\AdventurersWanted.RazorTargetAssemblyInfo.cache
 C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\obj\Debug\netcoreapp2.2\AdventurersWanted.dll
 C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\obj\Debug\netcoreapp2.2\AdventurersWanted.pdb
+C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\bin\Debug\netcoreapp2.2\AdventurersWanted.Views.dll
+C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\bin\Debug\netcoreapp2.2\AdventurersWanted.Views.pdb
+C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\obj\Debug\netcoreapp2.2\AdventurersWanted.TagHelpers.input.cache
+C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\obj\Debug\netcoreapp2.2\AdventurersWanted.TagHelpers.output.cache
+C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\obj\Debug\netcoreapp2.2\AdventurersWanted.RazorCoreGenerate.cache
+C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\obj\Debug\netcoreapp2.2\Razor\Views\App\Index.g.cshtml.cs
+C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\obj\Debug\netcoreapp2.2\AdventurersWanted.RazorTargetAssemblyInfo.cs
+C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\obj\Debug\netcoreapp2.2\AdventurersWanted.Views.pdb
+C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\obj\Debug\netcoreapp2.2\AdventurersWanted.csproj.CopyComplete
