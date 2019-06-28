@@ -1,0 +1,14 @@
+C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\bin\Debug\netcoreapp2.2\AdventurersWanted.deps.json
+C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\bin\Debug\netcoreapp2.2\AdventurersWanted.runtimeconfig.json
+C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\bin\Debug\netcoreapp2.2\AdventurersWanted.runtimeconfig.dev.json
+C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\bin\Debug\netcoreapp2.2\AdventurersWanted.dll
+C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\bin\Debug\netcoreapp2.2\AdventurersWanted.pdb
+C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\obj\Debug\netcoreapp2.2\AdventurersWanted.csprojAssemblyReference.cache
+C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\obj\Debug\netcoreapp2.2\AdventurersWanted.csproj.CoreCompileInputs.cache
+C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\obj\Debug\netcoreapp2.2\AdventurersWanted.RazorAssemblyInfo.cache
+C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\obj\Debug\netcoreapp2.2\AdventurersWanted.RazorAssemblyInfo.cs
+C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\obj\Debug\netcoreapp2.2\AdventurersWanted.AssemblyInfoInputs.cache
+C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\obj\Debug\netcoreapp2.2\AdventurersWanted.AssemblyInfo.cs
+C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\obj\Debug\netcoreapp2.2\AdventurersWanted.RazorTargetAssemblyInfo.cache
+C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\obj\Debug\netcoreapp2.2\AdventurersWanted.dll
+C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\obj\Debug\netcoreapp2.2\AdventurersWanted.pdb
