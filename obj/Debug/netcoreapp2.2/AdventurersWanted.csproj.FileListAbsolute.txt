@@ -23,3 +23,7 @@ C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\obj\Debug\net
 C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\obj\Debug\netcoreapp2.2\AdventurersWanted.csproj.CopyComplete
 C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
 C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\obj\Debug\netcoreapp2.2\Razor\Views\App\About.g.cshtml.cs
+C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\obj\Debug\netcoreapp2.2\Razor\Views\App\Profile.g.cshtml.cs
+C:\Users\Codey\Projects\dotnet\AdventurersWanted\AdventurersWanted\obj\Debug\netcoreapp2.2\Razor\Views\App\Campaign.g.cshtml.cs

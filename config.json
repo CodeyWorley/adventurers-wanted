@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "AWConnection": "server=(localdb)\\MSSQLLocalDB;Database=AdventurersWantedDb;Integrated Security=true;MultipleActiveResultSets=true;"
+  }
+}

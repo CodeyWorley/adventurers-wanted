@@ -1,0 +1,9 @@
+﻿@{
+    ViewBag.Title = "Campaigns";
+}
+@model  IEnumerable<Campaign>
+<h1>Campaign Finder</h1
+@foreach (var campaign in Model)
+{
+    <li>@campaign.Title</li>
+}

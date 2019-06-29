@@ -5,7 +5,16 @@
     <link href="~/css/index.css" rel="stylesheet" />
 </head>
 <body>
-    <header>Adventurers Wanted</header>
+    <header>
+        <h1>Adventurers Wanted</h1>
+        <menu>
+            <ul>
+                <li><a asp-controller="App" asp-action="Index">Home</a></li>
+                <li><a asp-controller="App" asp-action="About">About</a></li>
+                <li><a asp-controller="App" asp-action="Profile">Profile</a></li>
+            </ul>
+        </menu>
+    </header>
     <section>
         @RenderBody()
     </section>
