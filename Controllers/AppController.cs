@@ -22,17 +22,11 @@ namespace AdventurersWanted.Controllers
             return View();
         }
 
-        [HttpGet("about")]
-        public IActionResult About()
-        {
-            return View();
-        }
-
-        [HttpGet("campaign")]
-        public IActionResult Campaign()
+        [HttpGet("campaign-search")]
+        public IActionResult CampaignSearch()
         {
             var results = _context.Campaigns.ToList();
-            return View();
+            return View(results);
         }
 
         [HttpGet("profile")]

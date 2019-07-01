@@ -30,6 +30,10 @@ namespace AdventurersWanted
                 cfg.UseSqlServer(_config.GetConnectionString("AWConnection"));
             });
 
+            services.AddTransient<DbSeeder>();
+
+            services.AddScoped<IEntityRepository, EntityRepository>();
+
             services.AddMvc();
         }
 
